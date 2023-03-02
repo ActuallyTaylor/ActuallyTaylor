@@ -10,4 +10,4 @@ If you are interested in anything that I work on you can check out my portfolio 
 - 📫 You can reach me at zachary.lineman@gmail.com
 
 ## GitHub Stats
-![ActuallyZachs's GitHub stats](https://github-readme-stats.vercel.app/api?username=actuallyzach&show_icons=true&theme=radical)
+![ActuallyZachs's GitHub stats](https://github-readme-stats.vercel.app/api?username=actuallyzach&show_icons=true&theme=onedark)
