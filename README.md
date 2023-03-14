@@ -7,7 +7,7 @@ I like to work on a ton of different projects, and you can often find me just me
 If you are interested in anything that I work on you can check out my portfolio over at [zacharylineman.com](https://zacharylineman.com)
 
 ## Contact Me 🔗
-- 📫 You can reach me at zachary.lineman@gmail.com
+- 📫 You can reach me at taylor.lineman@gmail.com
 
 ## GitHub Stats
 ![ActuallyTaylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=actuallyzach&show_icons=true&theme=onedark)
