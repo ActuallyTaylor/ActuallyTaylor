@@ -11,3 +11,4 @@ If you are interested in anything that I work on you can check out my portfolio 
 
 ## GitHub Stats
 ![ActuallyTaylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=actuallytaylor&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=actuallytaylor&layout=compact)
