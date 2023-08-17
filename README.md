@@ -2,7 +2,7 @@
 **ActuallyTaylor/ActuallyTaylorh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile..
 !-->
 # Hello my name is Taylor!
-I like to work on a ton of different projects, and you can often find me just messing around on random things.
+I like to work on a ton of different projects, and you can often find me just messing around on random things. I have begun to start working more and more on open source work! So if you like what I create let me know!
 
 If you are interested in anything that I work on you can check out my portfolio over at [actuallytaylor.com](https://actuallytaylor.com)
 
