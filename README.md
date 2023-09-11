@@ -8,7 +8,7 @@ If you are interested in anything that I work on you can check out my portfolio 
 
 ## Open Source Work 🤩
 - [Open CAN Monitor](https://github.com/ActuallyTaylor/OpenCANMonitor)
-- [Open-Jellycuts](https://github.com/ActuallyTaylor/SwiftHTMLToMarkdown)
+- [Open-Jellycuts](https://github.com/ActuallyTaylor/Open-Jellycuts)
 - [Open-Jellycore](https://github.com/ActuallyTaylor/Open-Jellycore)
 - [Swift-Themes](https://github.com/ActuallyTaylor/Swift-Themes)
 - [SwiftHTMLToMarkdown](https://github.com/ActuallyTaylor/SwiftHTMLToMarkdown)
