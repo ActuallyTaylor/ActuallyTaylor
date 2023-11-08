@@ -14,7 +14,6 @@ If you are interested in anything that I work on you can check out my portfolio 
 - [SwiftHTMLToMarkdown](https://github.com/ActuallyTaylor/SwiftHTMLToMarkdown)
 - [SFSymbols](https://github.com/ActuallyTaylor/SFSymbols)
 - [HydrogenReporter](https://github.com/ActuallyTaylor/HydrogenReporter)
-- [RxKit](https://github.com/ActuallyTaylor/RxKit)
 
 ## Contact Me 🔗
 - 📫 You can reach me at taylor.lineman@gmail.com
