@@ -2,7 +2,7 @@
 This is me! Taylor, I am a software engineer who is currently studying at [Rochester Institute of Technology 🐅](https://www.rit.edu/).
 
 <!-- Polaroid with light and dark mode -->
-![A fake polaroid of me](./art/polaroid_dark.pnmg#gh-dark-mode-only)
+![A fake polaroid of me](./art/polaroid_dark.png#gh-dark-mode-only)
 ![A fake polaroid of me](./art/polaroid_light.png#gh-light-mode-only)
 
 ## Character (me) Stats
