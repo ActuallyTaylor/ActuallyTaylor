@@ -9,8 +9,8 @@ This is me! Taylor, I am a software engineer who is currently studying at [Roche
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-ruby-rho-45.vercel.app/api?username=actuallytaylor&show_icons=true&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-ruby-rho-45.vercel.app/api/top-langs/?username=actuallytaylor&layout=compact&theme=transparenlayout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-ruby-rho-45.vercel.app/api/top-langs/?username=actuallytaylor&layout=compact&theme=transparent&langs_count=8&card_width=320" />
 </a>
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=ActuallyTaylor&theme=transparent&card_width=480&card_height=200" alt="GitHub Streak" />
