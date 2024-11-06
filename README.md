@@ -1,9 +1,19 @@
-## Hi there 👋
-This is me! Taylor, I am a software engineer who is currently studying at [Rochester Institute of Technology 🐅](https://www.rit.edu/).
+# 👋 Hey! I'm...
+```
+  _____            _  _     _                               _        _                                           
+ |_   _|  __ _    | || |   | |     ___      _ _     o O O  | |      (_)    _ _      ___    _ __    __ _    _ _   
+   | |   / _` |    \_, |   | |    / _ \    | '_|   o       | |__    | |   | ' \    / -_)  | '  \  / _` |  | ' \  
+  _|_|_  \__,_|   _|__/   _|_|_   \___/   _|_|_   TS__[O]  |____|  _|_|_  |_||_|   \___|  |_|_|_| \__,_|  |_||_| 
+_|"""""|_|"""""|_| """"|_|"""""|_|"""""|_|"""""| {======|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
+"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'./o--000'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'
+```
+## <img src="https://media.giphy.com/media/88hQmbBidKbZ4Z63sX/giphy.gif" width="25"/> Some things about me...
+I am a software Engineer currently studying at [Rochester Institute of Technology 🐅](https://www.rit.edu/).
 
-<!-- Polaroid with light and dark mode -->
+<!-- Polaroid with light and dark mode
 ![A fake polaroid of me](./art/polaroid_dark.png#gh-dark-mode-only)
 ![A fake polaroid of me](./art/polaroid_light.png#gh-light-mode-only)
+-->
 
 ## Character (me) Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
