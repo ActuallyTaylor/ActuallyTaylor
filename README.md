@@ -1,8 +1,7 @@
 # <img src="https://media.giphy.com/media/2wh8AaMZ2jtRseDQ3C/giphy.gif" width="35"> Hey I'm Taylor!
 ![image](https://github.com/user-attachments/assets/adcee253-fc77-4747-8b71-6d89f490708d)
 
-I am a student at RIT, who loves to work on iOS, macOS apps and embedded firmware! I Often open source what I am working on so make sure to check it out 😊
-
+I am a student at RIT, who loves to work on iOS, macOS apps and embedded firmware! I often open source what I am working on so make sure to check it out 😊
 
 ## <img src="https://media.giphy.com/media/88hQmbBidKbZ4Z63sX/giphy.gif" width="25"/> Some things about me...
 - I currently work in the AI sphere while I am on co-op at Impel Intelligence!
