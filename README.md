@@ -8,7 +8,7 @@ I am a student at RIT, who loves to work on iOS, macOS apps and embedded firmwar
   - Checkout [impel](https://x.com/impel_ai), it was my main project and a really cool tool :)
 - I am a student at [Rochester Institute of Technology 🐅](https://www.rit.edu/)
 
-### Open Sourcing my work is one of my favorite things
+### Open Sourcing my work is one of my favorite things!
 #### Personal Open Source
 [![Open CAN Monitor](https://github-readme-stats-ruby-rho-45.vercel.app/api/pin?theme=transparent&username=actuallytaylor&repo=OpenCANMonitor)](https://github.com/ActuallyTaylor/OpenCANMonitor)
 [![My Person Website](https://github-readme-stats-ruby-rho-45.vercel.app/api/pin?theme=transparent&username=actuallytaylor&repo=Portfolio)](https://github.com/ActuallyTaylor/Portfolio)
