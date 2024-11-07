@@ -8,7 +8,7 @@ I am a student at RIT, who loves to work on iOS, macOS apps and embedded firmwar
   - Checkout [impel](https://x.com/impel_ai), it was my main project and a really cool tool :)
 - I am a student at [Rochester Institute of Technology 🐅](https://www.rit.edu/)
 
-### Open Sourcing my work is one of my favorite things!
+### <img src="https://media.giphy.com/media/l41Ym0KvdRlGZwlTa/giphy.gif" width="25"> Open Sourcing my work is one of my favorite things!
 #### Personal Open Source
 [![Open CAN Monitor](https://github-readme-stats-ruby-rho-45.vercel.app/api/pin?theme=transparent&username=actuallytaylor&repo=OpenCANMonitor)](https://github.com/ActuallyTaylor/OpenCANMonitor)
 [![My Person Website](https://github-readme-stats-ruby-rho-45.vercel.app/api/pin?theme=transparent&username=actuallytaylor&repo=Portfolio)](https://github.com/ActuallyTaylor/Portfolio)
@@ -34,7 +34,8 @@ At school I am on the [RIT Electric Vehicle Team](https://rit-evt.com/), I work 
 -->
 
 
-## Character (me) Stats
+
+##  <img src="https://media.tenor.com/1MFEcgJWwlMAAAAi/vault-boy.gif" width="25"/> Character (me) Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-ruby-rho-45.vercel.app/api?username=actuallytaylor&show_icons=true&theme=transparent" />
 </a>
