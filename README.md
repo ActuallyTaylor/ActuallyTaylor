@@ -11,24 +11,29 @@ I am a student at RIT, who loves to work on iOS, macOS apps and embedded firmwar
 
 ### Open Sourcing my work is one of my favorite things
 #### Personal Open Source
-- [Open CAN Monitor](https://github.com/ActuallyTaylor/OpenCANMonitor)
-- [My Person Website](https://github.com/ActuallyTaylor/Portfolio)
-- [Jellycuts](https://github.com/OpenJelly/Open-Jellycuts)
-- [Swift SFSymbols](https://github.com/ActuallyTaylor/SFSymbols)
-- [Hydrogen Reporter](https://github.com/ActuallyTaylor/HydrogenReporter)
-- [Firefly](https://github.com/ActuallyTaylor/Firefly)
+[![Open CAN Monitor](https://github-readme-stats-ruby-rho-45.vercel.app/api/pin?theme=transparent&username=actuallytaylor&repo=OpenCANMonitor)](https://github.com/ActuallyTaylor/OpenCANMonitor)
+[![My Person Website](https://github-readme-stats-ruby-rho-45.vercel.app/api/pin?theme=transparent&username=actuallytaylor&repo=Portfolio)](https://github.com/ActuallyTaylor/Portfolio)
+[![Open Jellycuts](https://github-readme-stats-ruby-rho-45.vercel.app/api/pin?theme=transparent&username=OpenJelly&repo=Open-Jellycuts)](https://github.com/ActuallyTaylor/Open-Jellycuts)
+[![Swift SFSymbols](https://github-readme-stats-ruby-rho-45.vercel.app/api/pin?theme=transparent&username=actuallytaylor&repo=SFSymbols)](https://github.com/ActuallyTaylor/SFSymbols)
+[![Hydrogen Reporter](https://github-readme-stats-ruby-rho-45.vercel.app/api/pin?theme=transparent&username=actuallytaylor&repo=HydrogenReporter)](https://github.com/ActuallyTaylor/HydrogenReporter)
+[![Firefly](https://github-readme-stats-ruby-rho-45.vercel.app/api/pin?theme=transparent&username=actuallytaylor&repo=Firefly)](https://github.com/ActuallyTaylor/Firefly)
+
+#### School Clubs
+At school I am on the [RIT Electric Vehicle Team](https://rit-evt.com/), I work on the Firmware team ensuring that all of the components of the bike can communicate and properly coordinate their actions. The two main projects I have worked on are the HUDL and our CAN abstraction layer.
+
+[![EVT Core](https://github-readme-stats-ruby-rho-45.vercel.app/api/pin?theme=transparent&username=RIT-EVT&repo=EVT-core)](https://github.com/RIT-EVT/EVT-core)
+[![HUDL](https://github-readme-stats-ruby-rho-45.vercel.app/api/pin?theme=transparent&username=RIT-EVT&repo=EVT-core)](https://github.com/RIT-EVT/HUDL)
 
 #### Work Open Source
-- [AccessibilityNavigator](https://github.com/impel-intelligence/AccessibilityNavigator)
-- [MagnitudeDB](https://github.com/impel-intelligence/MagnitudeDB)
-- [SQLite.swift.extensions](https://github.com/impel-intelligence/SQLite.swift.extensions)
-- [SLlama](https://github.com/impel-intelligence/SLlama)
-- [Swift Chunker](https://github.com/impel-intelligence/Swift-Chunker)
+[![Accessibiltiy Navigator](https://github-readme-stats-ruby-rho-45.vercel.app/api/pin?theme=transparent&username=impel-intelligence&repo=AccessibilityNavigator)](https://github.com/impel-intelligence/AccessibilityNavigator)
+[![MagnitudeDB](https://github-readme-stats-ruby-rho-45.vercel.app/api/pin?theme=transparent&username=impel-intelligence&repo=MagnitudeDB)](https://github.com/impel-intelligence/MagnitudeDB)
+[![SLlama](https://github-readme-stats-ruby-rho-45.vercel.app/api/pin?theme=transparent&username=impel-intelligence&repo=SLlama)](https://github.com/impel-intelligence/SLlama)
  
 <!-- Polaroid with light and dark mode
 ![A fake polaroid of me](./art/polaroid_dark.png#gh-dark-mode-only)
 ![A fake polaroid of me](./art/polaroid_light.png#gh-light-mode-only)
 -->
+
 
 ## Character (me) Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
