@@ -6,7 +6,7 @@ I am a student at RIT, who loves to work on iOS, macOS apps and embedded firmwar
 ## <img src="https://media.giphy.com/media/88hQmbBidKbZ4Z63sX/giphy.gif" width="25"/> Some things about me...
 - I currently work in the AI sphere while I am on co-op at Impel Intelligence!
   - Checkout [impel](https://x.com/impel_ai), it was my main project and a really cool tool :)
-- I am a student at [Rochester Institute of Technology 🐅](https://www.rit.edu/).
+- I am a student at [Rochester Institute of Technology 🐅](https://www.rit.edu/)
 
 ### Open Sourcing my work is one of my favorite things
 #### Personal Open Source
