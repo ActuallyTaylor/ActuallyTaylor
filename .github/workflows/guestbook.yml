@@ -13,6 +13,6 @@ jobs:
         uses: actions/setup-node@v1
       - run: npm install
       - name: Update guestbook
-        uses: muety/readme-guestbook@v1.0.9
+        uses: actuallytaylor/readme-guestbook
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
