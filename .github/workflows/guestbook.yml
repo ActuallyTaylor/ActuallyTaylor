@@ -16,3 +16,4 @@ jobs:
         uses: actuallytaylor/readme-guestbook@1.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          branch: 'main'
