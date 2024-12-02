@@ -2,7 +2,7 @@ name: GitHub Readme Guestbook
 
 on:
   issues:
-    types: [opened, deleted, edited, workflow_dispatch]
+    types: [opened, deleted, edited]
 
 jobs:
   update_guestbook:
