@@ -8,13 +8,13 @@ I am a student at RIT, who loves to work on iOS, macOS apps and embedded firmwar
 
 ##  <img src="https://media.tenor.com/1MFEcgJWwlMAAAAi/vault-boy.gif" width="25"/> Character (me) Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-ruby-rho-45.vercel.app/api?username=actuallytaylor&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats-ruddy-five-19.vercel.app/api?username=actuallytaylor&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-ruby-rho-45.vercel.app/api/top-langs/?username=actuallytaylor&layout=compact&theme=transparent&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-ruddy-five-19.vercel.app/api/top-langs/?username=actuallytaylor&layout=compact&theme=transparent&langs_count=8&card_width=320" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=ActuallyTaylor&theme=transparent&card_width=480&card_height=200" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-two-orpin.vercel.app?user=ActuallyTaylor&theme=transparent&card_width=480&card_height=200" alt="GitHub Streak" />
 </a>
 
 <!-- GitHub snake with light and dark mode -->
