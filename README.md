@@ -26,7 +26,7 @@ I am a student at RIT, who loves to work on iOS, macOS apps and embedded firmwar
 ## <img src="https://media.giphy.com/media/iEbPnIPyh9Exq/giphy.gif" width="25"/> Guestbook
 <!--START_SECTION:guestbook-->
 
-Do you like one of my projects or just want to say hi? Feel free to [sign](https://github.com/muety/muety/issues/new?title=Guestbook) my guestbook!
+Do you like one of my projects or just want to say hi? Feel free to [sign](https://github.com/actuallytaylor/actuallytaylor/issues/new?title=Guestbook) my guestbook!
 <!--END_SECTION:guestbook-->
 
 ---
