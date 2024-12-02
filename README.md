@@ -29,6 +29,7 @@ I am a student at RIT, who loves to work on iOS, macOS apps and embedded firmwar
 Do you like one of my projects or just want to say hi? Feel free to [sign](https://github.com/muety/muety/issues/new?title=Guestbook) my guestbook!
 <!--END_SECTION:guestbook-->
 
+---
 ```
   _____            _  _     _                               _        _                                           
  |_   _|  __ _    | || |   | |     ___      _ _     o O O  | |      (_)    _ _      ___    _ __    __ _    _ _   
