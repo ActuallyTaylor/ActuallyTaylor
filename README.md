@@ -25,7 +25,11 @@ I am a student at RIT, who loves to work on iOS, macOS apps and embedded firmwar
 
 ## <img src="https://media.giphy.com/media/iEbPnIPyh9Exq/giphy.gif" width="25"/> Guestbook
 <!--START_SECTION:guestbook-->
-Nothing here, yet. Be the first to [post something](https://github.com/ActuallyTaylor/ActuallyTaylor/issues/new?title=Guestbook) to ActuallyTaylor's guestbook!
+<a href="https://github.com/ActuallyTaylor"><img src="https://avatars.githubusercontent.com/u/32944568?u=59ca8c5b5fb10e45bb970a991fbf43288677542a&v=4" height="30"/></a>
+
+* **[ActuallyTaylor](https://github.com/ActuallyTaylor) wrote on 12/2/2024:** Hello World
+
+Do you like my project or just want to say hi? Feel free to [post](https://github.com/ActuallyTaylor/ActuallyTaylor/issues/new?title=Guestbook) to my guestbook!
 <!--END_SECTION:guestbook-->
 
 ---
