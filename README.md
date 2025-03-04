@@ -6,7 +6,7 @@ I am a student at [Rochester Institute of Technology 🐅](https://www.rit.edu/)
 
 ##  <img src="https://media.tenor.com/1MFEcgJWwlMAAAAi/vault-boy.gif" width="25"/> Character (me) Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-ruddy-five-19.vercel.app/api?username=actuallytaylor&show_icons=true&theme=transparent?" />
+  <img height=200 align="center" src="https://github-readme-stats-ruddy-five-19.vercel.app/api?username=actuallytaylor&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-ruddy-five-19.vercel.app/api/top-langs/?username=actuallytaylor&layout=compact&theme=transparent&langs_count=8&card_width=320?" />
