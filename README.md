@@ -19,18 +19,6 @@ I am a student at [Rochester Institute of Technology 🐅](https://www.rit.edu/)
 ![Snake eating my GitHub stats](https://raw.githubusercontent.com/ActuallyTaylor/ActuallyTaylor/refs/heads/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![Snake eating my GitHub stats](https://raw.githubusercontent.com/ActuallyTaylor/ActuallyTaylor/refs/heads/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-----
-
-## <img src="https://media.giphy.com/media/iEbPnIPyh9Exq/giphy.gif" width="25"/> Guestbook
-<!--START_SECTION:guestbook-->
-<a href="https://github.com/ActuallyTaylor"><img src="https://avatars.githubusercontent.com/u/32944568?u=59ca8c5b5fb10e45bb970a991fbf43288677542a&v=4" height="30"/></a>
-
-* **[ActuallyTaylor](https://github.com/ActuallyTaylor) wrote on 12/2/2024:** Hello World
-
-Do you like my project or just want to say hi? Feel free to [post](https://github.com/ActuallyTaylor/ActuallyTaylor/issues/new?title=Guestbook) to my guestbook!
-<!--END_SECTION:guestbook-->
-
----
 ```
   _____            _  _     _                               _        _                                           
  |_   _|  __ _    | || |   | |     ___      _ _     o O O  | |      (_)    _ _      ___    _ __    __ _    _ _   
