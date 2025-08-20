@@ -15,9 +15,10 @@ I am a student at [Rochester Institute of Technology 🐅](https://www.rit.edu/)
   <img src="https://github-readme-streak-stats-two-orpin.vercel.app?user=ActuallyTaylor&theme=transparent&card_width=480&card_height=200" alt="GitHub Streak" />
 </a>
 
-<!-- GitHub snake with light and dark mode -->
+<!-- GitHub snake with light and dark mode 
 ![Snake eating my GitHub stats](https://raw.githubusercontent.com/ActuallyTaylor/ActuallyTaylor/refs/heads/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![Snake eating my GitHub stats](https://raw.githubusercontent.com/ActuallyTaylor/ActuallyTaylor/refs/heads/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
+-->
 
 ```
   _____            _  _     _                               _        _                                           
@@ -27,7 +28,10 @@ I am a student at [Rochester Institute of Technology 🐅](https://www.rit.edu/)
 _|"""""|_|"""""|_| """"|_|"""""|_|"""""|_|"""""| {======|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'./o--000'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'
 ```
+<!--
 ![image](https://github.com/user-attachments/assets/adcee253-fc77-4747-8b71-6d89f490708d)
+-->
+
 
 <!--
 ### <img src="https://media.giphy.com/media/l41Ym0KvdRlGZwlTa/giphy.gif" width="25"> Open Sourcing my work is one of my favorite things!
