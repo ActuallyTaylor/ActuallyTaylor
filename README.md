@@ -14,7 +14,7 @@ I am a student at RIT, who loves to work on iOS, macOS apps and embedded firmwar
   <img height=200 align="center" src="https://github-readme-stats-beta-five-34.vercel.app/api/top-langs/?username=actuallytaylor&layout=compact&theme=transparent&langs_count=8&card_width=320?" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats-two-orpin.vercel.app?user=ActuallyTaylor&theme=transparent&card_width=480&card_height=200" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-seven-bice.vercel.app?user=ActuallyTaylor&theme=transparent&card_width=480&card_height=200" alt="GitHub Streak" />
 </a>
 
 <!-- GitHub snake with light and dark mode 
