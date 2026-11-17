@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Taylor Lineman&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 358, Total Commits  (last year) : 1236, Total PRs: 190, Total Issues: 122, Contributed to (last year): 36</desc>
+        <desc id="descId">Total Stars Earned: 358, Total Commits  (last year) : 1207, Total PRs: 190, Total Issues: 122, Contributed to (last year): 36</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 18.150509676344885;
+        stroke-dashoffset: 18.264444499421337;
       }
     }
   
